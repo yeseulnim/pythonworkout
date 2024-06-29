@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="01562ba7-f711-457c-8900-f37d1af78bd0" name="변경" comment="solved initial problem and additional problems">
-      <change afterPath="$PROJECT_DIR$/workout/3. run_timing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workout/4. hexadecimal output.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,6 +37,7 @@
     "Python.1. guessing game.executor": "Run",
     "Python.2. summing numbers.executor": "Run",
     "Python.3. run_timing.executor": "Run",
+    "Python.4. hexadecimal output.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
@@ -73,7 +74,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719392315981</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="solved initial problem and additional problems">
+      <option name="closed" value="true" />
+      <created>1719580491484</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1719580491484</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
