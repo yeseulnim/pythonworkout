@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="01562ba7-f711-457c-8900-f37d1af78bd0" name="변경" comment="solved initial problem and additional problems">
-      <change afterPath="$PROJECT_DIR$/workout/6, pig_latin_sentence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workout/7. ubbi_dubbi.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/workout/5. pig_latin.py" beforeDir="false" afterPath="$PROJECT_DIR$/workout/5. pig_latin.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +41,7 @@
     "Python.4. hexadecimal output.executor": "Run",
     "Python.5. pig_latin.executor": "Run",
     "Python.6, pig_latin_sentence.executor": "Run",
+    "Python.7. ubbi_dubbi.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
@@ -100,7 +102,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719743117445</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="solved initial problem and additional problems">
+      <option name="closed" value="true" />
+      <created>1719832591808</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1719832591808</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

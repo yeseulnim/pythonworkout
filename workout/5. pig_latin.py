@@ -19,7 +19,7 @@ print(pig_latin("python"))
 
 def pig_latin_cap(sentence:str):
     is_title = sentence.istitle()
-    if sentence[0] in "aeiou":
+    if sentence[0].lower() in "aeiou":
         result = sentence+"way"
     else:
         result = sentence[1:]+sentence[0]+"ay"
@@ -37,7 +37,7 @@ def pig_latin_punc(sentence:str):
     if sentence[-1] in ".,!?":
         punc = sentence[-1]
         sentence = sentence[:-1]
-    if sentence[0] in "aeiou":
+    if sentence[0].lower() in "aeiou":
         result = sentence + "way" + punc
     else:
         result = sentence[1:] + sentence[0] + "ay" + punc
