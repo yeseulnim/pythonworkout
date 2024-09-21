@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="01562ba7-f711-457c-8900-f37d1af78bd0" name="변경" comment="solved initial problem and additional problems">
-      <change afterPath="$PROJECT_DIR$/workout/13. format_sort_records.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workout/14. restaurant.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workout/15. get_rainfall.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,6 +40,8 @@
     "Python.11. alphabetize_name.executor": "Run",
     "Python.12. most_repeating_word.executor": "Run",
     "Python.13. format_sort_records.executor": "Run",
+    "Python.14. restaurant.executor": "Run",
+    "Python.15. get_rainfall.executor": "Run",
     "Python.2. summing numbers.executor": "Run",
     "Python.3. run_timing.executor": "Run",
     "Python.4. hexadecimal output.executor": "Run",
@@ -163,7 +166,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720446150353</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="solved initial problem and additional problems">
+      <option name="closed" value="true" />
+      <created>1720527712835</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1720527712835</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
