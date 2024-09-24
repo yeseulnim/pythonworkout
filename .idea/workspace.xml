@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="01562ba7-f711-457c-8900-f37d1af78bd0" name="변경" comment="solved initial problem and additional problems">
-      <change afterPath="$PROJECT_DIR$/workout/16. dictdiff.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/workout/17. how_many_different_numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workout/18. get_final_line.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,6 +43,7 @@
     "Python.15. get_rainfall.executor": "Run",
     "Python.16. dictdiff.executor": "Run",
     "Python.17. how_many_different_numbers.executor": "Run",
+    "Python.18. get_final_line.executor": "Run",
     "Python.2. summing numbers.executor": "Run",
     "Python.3. run_timing.executor": "Run",
     "Python.4. hexadecimal output.executor": "Run",
@@ -184,7 +184,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726930901992</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="solved initial problem and additional problems">
+      <option name="closed" value="true" />
+      <created>1726999518969</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1726999518969</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
