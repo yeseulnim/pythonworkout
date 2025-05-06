@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="01562ba7-f711-457c-8900-f37d1af78bd0" name="변경" comment="solved initial problem and additional problems">
-      <change afterPath="$PROJECT_DIR$/workout/21. find_longest_word.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workout/22. passwd_to_csv.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,6 +48,7 @@
     "Python.2. summing numbers.executor": "Run",
     "Python.20. wordcount.executor": "Run",
     "Python.21. find_longest_word.executor": "Run",
+    "Python.22. passwd_to_csv.executor": "Run",
     "Python.3. run_timing.executor": "Run",
     "Python.4. hexadecimal output.executor": "Run",
     "Python.5. pig_latin.executor": "Run",
@@ -219,7 +220,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730625502892</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="solved initial problem and additional problems">
+      <option name="closed" value="true" />
+      <created>1746417255290</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1746417255290</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
